@@ -1,13 +1,18 @@
-# Calculator
+# Calculator Web App
 
-A very simple calculator, built as a Progressive Web App.
+A very simple calculator, built as a Progressive Web App. Playable [here](https://vcjhwebdev.github.io/calculator)!
 
 ## Features
 
-- list features here
+- Uses localStorage to save memory
 
 ### Changelog
 
-**Version 0.423479567834695648235863924537478568932874657828346582738453453**
+**Version 1.1.4**
 
-Made into PWA
+- Fix checking if browser supports localStorage
+
+**Version 1.1.3**
+
+- Make functions into a single object
+- Use localStorage instead of cookies
