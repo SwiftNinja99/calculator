@@ -5,6 +5,7 @@ body {
 	-webkit-user-select: none;
 	-webkit-tap-highlight-color: transparent;
 	-webkit-touch-callout: none;
+	-webkit-user-scalable: 0; 
 }
 
 * {
