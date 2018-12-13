@@ -10,4 +10,4 @@ A very simple calculator, built as a Progressive Web App. Playable [here](https:
 
 **Version Shoe Polish**
 
--Rainbow pride, killed a few bugs, 
+- Battery saving colors, fixed memory clear function.
