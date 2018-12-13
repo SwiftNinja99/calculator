@@ -1,6 +1,6 @@
 # Calculator Web App
 
-A very simple calculator, built as a Progressive Web App. Playable [here](https://vcjhwebdev.github.io/calculator)!
+A very simple calculator, built as a Progressive Web App. Playable [here](https://swiftninja99.github.io/calculator)!
 
 ## Features
 
@@ -8,11 +8,6 @@ A very simple calculator, built as a Progressive Web App. Playable [here](https:
 
 ### Changelog
 
-**Version 1.1.4**
+**Version Shoe Polish**
 
-- Fix checking if browser supports localStorage
-
-**Version 1.1.3**
-
-- Make functions into a single object
-- Use localStorage instead of cookies
+-Rainbow pride, killed a few bugs, 
