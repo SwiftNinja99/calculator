@@ -8,6 +8,6 @@ A very simple calculator, built as a Progressive Web App. Usable [here](https://
 
 ### Changelog
 
-**Version 1.0.0**
+**Version 1.0.1**
 
-- Battery saving colors, fixed memory clear function.
+- Battery saving colors, smashed a few bugs.
