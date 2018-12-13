@@ -8,6 +8,6 @@ A very simple calculator, built as a Progressive Web App. Usable [here](https://
 
 ### Changelog
 
-**Version Shoe Polish**
+**Version 1.0.0**
 
 - Battery saving colors, fixed memory clear function.

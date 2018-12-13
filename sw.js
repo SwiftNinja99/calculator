@@ -1,4 +1,4 @@
-const CACHE_NAME = 'shoe polish';
+const CACHE_NAME = 'v1.0.0';
 
 var urlsToCache = [
 	'index.html',
