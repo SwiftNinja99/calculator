@@ -8,7 +8,12 @@ A very simple calculator, built as a Progressive Web App. Usable [here](https://
 
 ### Changelog
 
+**Version 1.0.3**
+
+- Added fonts
+
 **Version 1.0.2**
+
 - Added exponents, pi, and parenthesis
 
 **Version 1.0.1**
