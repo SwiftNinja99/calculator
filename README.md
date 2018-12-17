@@ -8,6 +8,10 @@ A very simple calculator, built as a Progressive Web App. Usable [here](https://
 
 ### Changelog
 
+**Version 1.1**
+
+- Added keyboard support for most of the calculator
+
 **Version 1.0.3**
 
 - Added fonts
