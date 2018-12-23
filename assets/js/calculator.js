@@ -122,7 +122,7 @@ var Calculator = {
 			if(event.key == 'c') {
 				Calculator.display('')
 			}
-			if(event.key == '=') {
+			if(event.key == '=' || event.keyCode === 13) {
 				Calculator.e()
 			}
 			if(event.key == '/') {

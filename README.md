@@ -8,6 +8,10 @@ A very simple calculator, built as a Progressive Web App. Usable [here](https://
 
 ### Changelog
 
+**Version 1.1.1**
+
+- Made the enter/return key evaluate the expression
+
 **Version 1.1**
 
 - Added keyboard support for most of the calculator
